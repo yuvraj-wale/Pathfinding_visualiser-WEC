@@ -20,7 +20,7 @@ you can also use the following link : [https://yuvraj-wale.github.io/A_star_visu
 - to make the website responsive for all devices.
 
 ## List of known bugs :
-- no known bugs
+- the grid turns white for a split second in between while the algorithm is working.
 
 ## References used :
 - clement mihailescu's pathfinding visualizer tutorial
@@ -36,3 +36,4 @@ you can also use the following link : [https://yuvraj-wale.github.io/A_star_visu
 - MacOS.
 
 ## Screenshots / Recording of the website :
+- [https://drive.google.com/drive/folders/1y783IOUJqeAvoloYyAUI0F1h1C2EebIW?usp=share_link]
